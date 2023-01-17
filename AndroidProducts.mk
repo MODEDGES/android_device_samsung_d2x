@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_d2x.mk
+    $(LOCAL_DIR)/spark_d2x.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_d2x-eng \
-    lineage_d2x-user \
-    lineage_d2x-userdebug
+    spark_d2x-eng \
+    spark_d2x-user \
+    spark_d2x-userdebug
